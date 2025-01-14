@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Seungah Jang
@@ -64,7 +64,9 @@ career-profile:
 education:
     title: Education
     info:
-      #- degree: MSc in Computer Science
+      - degree: MS/PhD (integrated) in Computer Science
+        university: Pohang University of Science of Technology (POSTECH)
+        time: 2025.02 - Present
       - degree: B.S. in Computer Science &amp Statistics
         university: Jeju National University
         time: 2020.03 - 2025.02
@@ -83,10 +85,10 @@ personal-philosophy:
     title: Personal Philosophy
     info:
       - details: |
-          [ 三直 ]
-          1. 우직하게 학문에 매진하고,
-          2. 솔직하게 소통하며,
-          3. 정직하게 살아가고자 합니다.
+        [ 三直 ]
+        1. 우직하게 학문에 매진하고,
+        2. 솔직하게 소통하며,
+        3. 정직하게 살아가고자 합니다.
 
       
 
