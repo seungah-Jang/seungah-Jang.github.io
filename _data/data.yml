@@ -60,14 +60,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hello, I am a MS/PhD (Integrated) student at DSLab@POSTECH, under the supervision of Professor Wook-Shin Han.
+      Hello, I am a MS/PhD (Integrated) student at [DSLab@POSTECH](https://dslab.postech.ac.kr/), under the supervision of Professor Wook-Shin Han.
 education:
     title: Education
     info:
       - degree: MS/PhD (Integrated) in Computer Science and Engineering
         university: Pohang University of Science of Technology (POSTECH)
         time: 2025.02 - Present
-      - degree: B.S. in Computer Science and Statistics
+      - degree: B.S. in Computer Science and Statistics (Summa Cum Laude)
         university: Jeju National University
         time: 2020.03 - 2025.02
         details: |
