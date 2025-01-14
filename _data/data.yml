@@ -76,8 +76,8 @@ education:
 experiences:
     title: Experiences
     info:
-      - details: |
-        My experiences will be updated.
+#      - details: |
+#        My experiences will be updated.
 
 personal-philosophy:
     title: Personal Philosophy
